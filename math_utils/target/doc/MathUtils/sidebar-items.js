@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["addition","division","factorial","greatest_common_divisor","is_prime","multiplication","subtraction"]};
